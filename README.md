@@ -16,3 +16,6 @@ useState: Para gerenciar o estado do tabuleiro, o contador de turnos e o bloquei
 useRef: Para manipular diretamente o elemento do título e exibir o vencedor sem causar re-renderizações desnecessárias.
 CSS3: Para a estilização do tabuleiro e dos elementos do jogo.
 HTML5: Estrutura semântica do componente.
+
+# Clique no link abaixo para jogar
+https://danielsoares30.github.io/jogoDaVelhaReact/
