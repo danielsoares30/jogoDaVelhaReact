@@ -17,5 +17,5 @@ useRef: Para manipular diretamente o elemento do título e exibir o vencedor sem
 CSS3: Para a estilização do tabuleiro e dos elementos do jogo.
 HTML5: Estrutura semântica do componente.
 
-# Clique no link abaixo para jogar
+#  👇​Clique no link abaixo para jogar
 https://danielsoares30.github.io/jogoDaVelhaReact/
